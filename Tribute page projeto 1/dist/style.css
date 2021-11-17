@@ -1,0 +1,53 @@
+#main {
+  max-widht: 1280px;
+  max-height: 100%;
+  margin: 30px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 5px
+  
+}
+
+div{
+  
+}
+
+#title {
+  text-align: center;
+}
+
+#main > p {
+  text-align: center;
+}
+
+#img-dev {
+  max-widht: 600px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #ffffff;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  padding-botton: 10px;
+}
+
+#tribute-info {
+  max-widht: 700px;
+  margin: 0 auto;
+}
+
+#tribute-info > h3 {
+  text-align: center;
+}
+#tribute-info > p {
+  text-align: left;
+}
+#tribute-info > i {
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
